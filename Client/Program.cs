@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Blazor.Browser.Services;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 
-namespace WebApplication1.Client
+namespace Client
 {
     public class Program
     {
