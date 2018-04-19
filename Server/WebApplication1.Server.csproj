@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\WebApplication1.Client\WebApplication1.Client.csproj" />
-    <ProjectReference Include="..\WebApplication1.Shared\WebApplication1.Shared.csproj" />
+    <ProjectReference Include="..\Models\WebApplication1.Models.csproj" />
   </ItemGroup>
 
 </Project>
